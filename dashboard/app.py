@@ -10,36 +10,22 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --- Absolute paths ---
-INDEX_FAISS = "data/embeddings/index.faiss"
-INDEX_PKL = "data/embeddings/index.pkl"
-SUMMARIES_DIR = "data/summaries"
-
-
-# --- Load model ---
+# --- Load model and index ---
 model = SentenceTransformer("all-MiniLM-L6-v2")
-
-# --- Load index and metadata ---
-if not os.path.exists(INDEX_PKL) or not os.path.exists(INDEX_FAISS):
-    st.error("❌ Index files not found. Please generate them first.")
-    st.stop()
-
 try:
-    with open(INDEX_PKL, "rb") as f:
+    with open("data/embeddings/index.pkl", "rb") as f:
         raw = pickle.load(f)
         metadata = raw["metadata"]
         id_map = {i: m for i, m in enumerate(metadata)}
-    index = faiss.read_index(INDEX_FAISS)
+    index = faiss.read_index("data/embeddings/index.faiss")
 except Exception as e:
     st.error(f"❌ Failed to load index files: {e}")
     st.stop()
 
 # --- Highlight query terms ---
 def highlight(text, query):
-    for word in query.split():
-        pattern = re.compile(re.escape(word), re.IGNORECASE)
-        text = pattern.sub(f"**{word}**", text)
-    return text
+    pattern = re.compile(re.escape(query), re.IGNORECASE)
+    return pattern.sub(f"**{query}**", text)
 
 # --- Semantic search ---
 def search(query, top_k=10):
@@ -52,7 +38,7 @@ def search(query, top_k=10):
             continue
         entry = id_map[key]
         pmc_id, chunk_id, section, link = entry["pmc_id"], entry["chunk_id"], entry["section"], entry.get("link")
-        summary_path = os.path.join(SUMMARIES_DIR, f"{pmc_id}_summary.json")
+        summary_path = f"data/summaries/{pmc_id}_summary.json"
         summary_text = None
         if os.path.exists(summary_path):
             with open(summary_path, "r", encoding="utf-8") as f:
@@ -69,6 +55,8 @@ section = st.sidebar.radio("Go to:", ["Semantic Search", "About"])
 st.sidebar.markdown("### 📊 Stats")
 st.sidebar.metric("Papers Indexed", len(id_map))
 st.sidebar.metric("Last Updated", "Oct 4, 2025")
+
+
 
 # --- Main UI ---
 if section == "Semantic Search":
@@ -102,7 +90,8 @@ elif section == "About":
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("Made by Vyomx | Powered by LLMs + NASA Bioscience")
+st.markdown("Made  by  Vyomx| Powered by LLMs + NASA Bioscience")
+
 
 
 
