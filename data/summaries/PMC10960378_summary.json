@@ -1,0 +1,132 @@
+[
+  {
+    "chunk_id": "PMC10960378_FullText_0",
+    "section": "FullText",
+    "summary": "The International Space Station (ISS) stands as a testament to human achievement in space exploration . The ISS is a testament ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_4",
+    "section": "FullText",
+    "summary": "Extremely isolated environments.  extreme, isolated environments . Extremely, isolated places. Extremely low-tech environments. extreme environments."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_5",
+    "section": "FullText",
+    "summary": "Enterobacter bugandensis, a newly recognised species, emerges as one of the important opportunistic pathogens within the <em>Enterobacter</em> genus . Species from this Gram-negative, facultative anaerobic genus exist in various environments, from soil to the human gut . Some species act as opportunistic human pathogens, causing nosocomial infections with bactere"
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_6",
+    "section": "FullText",
+    "summary": "The ISS genomes formed a separate clade from strains present in other Earth environments and hosts (Figs.  from human hosts, accounting for approximately 81% of all isolates, followed by non-human hosts/environmental sources (11%) Detailed information on the genomes, including their isolation sources, ANI, is presented in Supplementary Table ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_7",
+    "section": "FullText",
+    "summary": "E. bugandensis strains isolated from the ISS might have evolved functionally under extreme conditions . We identified and annotated every open reading frame (ORFs) in each of the 211 genomes/MAG . ISS strains exhibited a relatively higher average gene count in categories such as amino acid transport and metabolism, mobilome (prophages and transposons), and transcription factors ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_8",
+    "section": "FullText",
+    "summary": "These genomes harbour resistance to 23 different multidrugs, including cephalosporin, cephamycin, fluoroquinolone, and nitroimidazole antibiotics . A gene from the ACT-77 family (ACT-77) was present across all 13 genomes, exhibiting 99.48% sequence identity and 100% coverage ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_9",
+    "section": "FullText",
+    "summary": "Metagenomic analysis reveals the prevalence of\u00a0E.E. E.H.H., a formative form of cancer . The study was published in the US National Institute of Medicine ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_10",
+    "section": "FullText",
+    "summary": "The panel illustrates the co-presence networks ( n = 3) of microorganisms that inhabit locations with a relative abundance &gt;\u00a01%. The hexagonal nodes represent ISS locations, while circular nodes symbolise the microorganisms ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_11",
+    "section": "FullText",
+    "summary": "Analysis predicted a total of 947 pairwise interactions across seven locations during three flights of the MT-1 mission . Among these interactions, we observed a prevalence of \u201cnegative\u201d interactions, such as parasitism (441) and amensalism (412), followed by 34 mutualistic, 31 competitive, 26 commensalistic, and three neutral interactions ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_12",
+    "section": "FullText",
+    "summary": "E. bugandensis, a multidrug-resistant, nosocomial BSL-2 pathogen, was observed to be present in the ISS during the cataloguing of viable microbial communities . Such organisms pose potential threats to astronauts on the ISS, though the exact mechanisms behind their behaviour in space remain unknown ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_13",
+    "section": "FullText",
+    "summary": "CR34\">34\" CR34=\"34\"\" is a reference to the World Series of Super Bowls . CR34\" is"
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_14",
+    "section": "FullText",
+    "summary": "E. bugandensis exhibits prevalence and varying relative abundance across different locations within the space station . DNA retrieved from this opportunistic pathogen residing on ISS is viable and intact ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_15",
+    "section": "FullText",
+    "summary": "The metabolic models we constructed are draft models generated from representative type strains of the organisms . These models may still have gaps and could differ from the actual isolates . Despite these limitations, such automated reconstruction models are widely used for studying metabolic characteristics and predicting microbial interactions ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_16",
+    "section": "FullText",
+    "summary": "The surgical theatres are located in hospitals and surgical centres across the United States . They are also located in surgical centres, hospitals and hospitals"
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_17",
+    "section": "FullText",
+    "summary": "To identify and annotate the ORFs in the genomes of E. bugandensis, we used Prokka v.1.14.6, Prodigal and FreeBayes to identify variants across the provided genomes . We employed the Python package cogclassifier v1.0.5 to identify and classify COGs (Clusters of Orthologous Genes) from"
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_18",
+    "section": "FullText",
+    "summary": "Genome-scale metabolic models (GSMMs) were constructed from the GenBank sequence database . These genomes were processed through KBase to build the models ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_19",
+    "section": "FullText",
+    "summary": "To predict the nature of microbial interactions, we employed SteadyCom, an optimisation framework for rapid linear programming problem-solving . This framework allowed us to estimate the biomass production rates of every microbial member in the community in a time-averaged, steady-state manner . The pairwise effect of microbes in any given community was expressed through the equation:\u00a0e. Pairwise"
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_20",
+    "section": "FullText",
+    "summary": "The genome and metagenome sequences were obtained from NCBI (accessed on July 17, 2023). The authors thank Mr Vijay Kapse for his technical support in metabolic interaction data analysis ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_21",
+    "section": "FullText",
+    "summary": "Crewmember microbiome may influence microbial composition of ISS habitable surfaces . The study was published in the journal PLoS ONE 2020; 15(4):e0231838 ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_22",
+    "section": "FullText",
+    "summary": "Enterobacter bacteremia: clinical features and emergence of antibiotic resistance during therapy . Ann Intern Med. 1991;115(8):585\u2013590 ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_23",
+    "section": "FullText",
+    "summary": "Genomic analysis reveals the presence of the emerging lebienklebsiella lineages . Lebienlla is a new strain of Salmonella enterica, which has been linked to tomato root surfaces ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_24",
+    "section": "FullText",
+    "summary": "The study was published in the journal Proc Nat Nat. Nat. Academics 2020;117(22):12387\u201312393 .  E.Frey: Pangenomic approach to understanding microbial adaptations within a model built environment, the international space station, relative to human hosts and soil . E. Frey: The complete genome sequence of Cupriavidus metallidurans strain CH34, a master survivalist in harsh and anthropogenic environments ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_25",
+    "section": "FullText",
+    "summary": "Klebsiella pneumoniae is a major worldwide source and shuttle for antibiotic resistance . The study was published in the journal Mgen. year=2020 ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_26",
+    "section": "FullText",
+    "summary": "cite: Prokka: rapid prokaryotic genome annotation. Bioinformatics. 2014; 30(14):2068\u20132069."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_27",
+    "section": "FullText",
+    "summary": "This section collects any data citations, data availability statements, or supplementary materials included in this article . The article includes two alternate phylogenetic trees constructed from two different approaches . Phylogenetic tree constructed based on SNPs with selected genomes closely related to ISS strains ."
+  },
+  {
+    "chunk_id": "PMC10960378_FullText_30",
+    "section": "FullText",
+    "summary": "Pajajajaja.getScript is a form of JavaScript . The code is called \"jQuery\", and it is then called \"JQuery\" and \"jquery-3.6.0.6\""
+  }
+]

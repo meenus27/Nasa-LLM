@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title>Voice Test</title></head>
+<body>
+  <button onclick="startDictation()">🎤 Start Voice Input</button>
+  <input id="transcript" type="text" style="width: 100%; margin-top: 10px;" />
+  <script>
+    function startDictation() {
+      if ('webkitSpeechRecognition' in window) {
+        const recognition = new webkitSpeechRecognition();
+        recognition.continuous = false;
+        recognition.interimResults = false;
+        recognition.lang = "en-US";
+        recognition.start();
+        recognition.onresult = function(event) {
+          document.getElementById("transcript").value = event.results[0][0].transcript;
+        };
+        recognition.onerror = function(event) {
+          console.error("Speech recognition error:", event.error);
+        };
+      } else {
+        alert("Speech recognition not supported in this browser.");
+      }
+    }
+  </script>
+</body>
+</html>

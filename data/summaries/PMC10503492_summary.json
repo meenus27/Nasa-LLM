@@ -1,0 +1,247 @@
+[
+  {
+    "chunk_id": "PMC10503492_FullText_0",
+    "section": "FullText",
+    "summary": "The study was published in the journal CPLC journal J.C.Creprep.org . The study is published on the CPLP journal Creprep ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_4",
+    "section": "FullText",
+    "summary": "The central nervous system (CNS) is particularly vulnerable to space stressors . Studies have reported behavioral deficits in spatial orientation, coordination, and locomotion . There is still insufficient data regarding its long-term health risks ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_5",
+    "section": "FullText",
+    "summary": "The flies were reared either under a 1g force in space or in.  and radiation environments in space . Upon completing the mission, a postflight ground control experiment was performed on Earth (Earth) using the same flight hardware and simulating spaceflight conditions . The flies retrieved upon completion of the mission were used for behavioral, morphological, and acclimation analyses to study the"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_6",
+    "section": "FullText",
+    "summary": "Camera represents inflight videos that were recorded to monitor fly health and behavior . Onboard operations included freezing the food cylinders containing flies and larvae in RNAlater for omics analysis . Live flies were returned to Earth . A subset of F1 flies used for behavioral assays to measure climbing ability ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_7",
+    "section": "FullText",
+    "summary": "Climbing ability is the fly\u2019s innate negative geotactic response and is routinely used to assess nervous system dysfunction in fly models . We observed that males born in \u03bcg were more affected with significant deficits in climbing ability compared to Earth males . A decreasing trend was also observed in SF\u03bcg females and SF1g (males and females) compared to their respective Earth control .  Neuropil area is significantly reduced in SF\u03bcg flies compared to Earth and SF1g control flies in both sexes . A similar phenotype was noted in the Alzheimer\u2019s disease fly model accompanied with behavioral deficits ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_8",
+    "section": "FullText",
+    "summary": "The radiation environment in LEO is known to be more benign than the environment in deep space, beyond the Van Allen belts (Nelson"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_9",
+    "section": "FullText",
+    "summary": "The gross physiological changes induced in LEO flights like on ISS, as observed in SF\u03bcg flies, at least for the CNS immediately post-return, may primarily be associated with changes in gravity . These results indicate that gravity can play a key role in the LEO environment, causing neuronal and neurobehavioral deficits during spaceflight ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_10",
+    "section": "FullText",
+    "summary": "Table provides a global view of the total number of differentially up and down regulated genes (DEGs) and proteins (DEPs) in SF1g and SF\u03bcg compared to Earth control . Proteomic data of SF \u03bcg flies (males and females) show enrichment of pathways such as endocytosis, cellular metabolic responsive pathways \u2013 tyrosine metabolism,"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_11",
+    "section": "FullText",
+    "summary": "Spaceflight alters the expression of stress-inducible proteins affecting CNS . The stress response under spaceflight conditions (SF\u03bcg&gt; SF1g) suggests high energy demand ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_12",
+    "section": "FullText",
+    "summary": "The number of proteins altered is higher in SF\u03bcg condition than SF1g . Males show more changes than females . Prostitutes associated with muscle and cytoskeleton are also noted in spaceflight flies ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_13",
+    "section": "FullText",
+    "summary": "Repo positive cells at R+25 days showed total glial loss (D) and increase in the aggregates/rosettes (F) in SF\u03bcg, SF1g ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_14",
+    "section": "FullText",
+    "summary": "Spaceflight effects on the brain at the molecular, morphological, and behavioral levels.  insights into spaceflight effects ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_15",
+    "section": "FullText",
+    "summary": "There is a gap in our understanding of AG prescriptions required to ameliorate the health concerns during spaceflight . We utilized MVP hardware featuring an inflight centrifuge that simulates Earth\u2019s gravity on the ISS (SF1g) to address this knowledge gap . The inflight video recording capability aided in assessing the health of the flies during the mission ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_16",
+    "section": "FullText",
+    "summary": "We hypothesize that the observed alterations in the metabolic pathways are an effort to restore cellular homeostasis . Microgravity in SF\u03bcg acts as an additional stressor, potentially resulting in elevated oxidative stress ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_17",
+    "section": "FullText",
+    "summary": "Radiation studies in ground-based rodent models indicate that exposure to deep space radiation can affect behavior . These phenotypes in SF1g at R+25 may be a delayed response to radiation combined with exposure to other space stressors such as elevated CO <sub>2</sub>."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_18",
+    "section": "FullText",
+    "summary": "In an enclosed and isolated environment of the ISS, astronauts experience elevated CO<sub>2</sub> levels that are considerably higher than ambient levels on Earth . In our study, the Earth control flies were exposed to an environment mimicking ISS and experienced high CO <sub>.sub>levels similar to SF1g and SF\u03bcg flies, in contrast to regular lab conditions ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_19",
+    "section": "FullText",
+    "summary": "The mission used the MVP hardware (Redwire/Techshot, Inc., Greenville, Indiana) that supports easy food changes, allowing for a"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_20",
+    "section": "FullText",
+    "summary": "The housing system consists of two independent centrifuge units maintained within the same habitat enclosure, each containing six MVP modules . Each MVP module has two adult fly chambers and three food cylinders . Each food cylinder holds approximately 9.2 mL of standard fly food containing foodgrade blue food dye . The video was periodically checked during the mission to ensure the health of flies and gauge the overall well-being"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_21",
+    "section": "FullText",
+    "summary": "A ground-based ground control with the same hardware used for the mission was conducted in a ground incubator with six MVP modules resulting in 883 flies . For the postflight control (Earth), flies were placed in each module to match the flight condition and were reared under identical conditions . CO<sub>2</sub> levels within habitats in space are often significantly higher than those"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_22",
+    "section": "FullText",
+    "summary": "Food cylinder 1 from each module containing F2 generation fruit fly eggs and larvae, and some F1 generation adults, was fixed in RNAlater (Invitrogen) Food cylinder 3 was reopened to adult fly chamber 2 to continue providing food to this population for the remainder of the experiment . Food cylinder 2 remained open to chamber 1 during egg lay to allow adults to continue emerging ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_23",
+    "section": "FullText",
+    "summary": "Full resolution 8-bit images (1986x1064) were used for analysis . Individual frames from the video images have a predominant intensity in the blue channel . Each video image was separated into its three RGB components, and each video was inverted . The resulting images had individual flies that appeared as white pixels on a gray background . Flies that did not move did not create a track,"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_24",
+    "section": "FullText",
+    "summary": "Climbing assay was performed on F1 generation of flies returned to Earth using a modified version of Le Bourg and Lints . The number of flies climbing past the 5 cm mark measured from the bottom of the vial in 18 seconds was recorded as a percentage of flies able to climb per vial (climbing ability) The significance was determined between the conditions by a one-"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_25",
+    "section": "FullText",
+    "summary": "The ELAV neuronal cortex, neuropil, and the total brain area were traced and quantified using Image J software (v1.52g, U.S. National Institutes of Health, Bethesda, Maryland, USA) Total RNA was extracted from adult heads with four biological replicates in each condition (12-15 heads per replicate) Isolated RNA was used to perform paired"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_26",
+    "section": "FullText",
+    "summary": "C) target of 2.0 x 10.0x 10.5 <sup> with a maximum injection time of 100 ms."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_27",
+    "section": "FullText",
+    "summary": "MS2 fragment ions were captured in the MS3 precursor population . MS3 precursors were isolated within a 2.5 Da window and subjected to high energy collision-induced dissociation (HCD) with a collision energy of 55% . The ions were then detected in the Orbitrap at a resolution of 60,000 with an AGC of 5.0 x 10 <sup"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_28",
+    "section": "FullText",
+    "summary": "The experiment was launched with flies in chamber 2/cylinder 3 and food in cylinder 3 . Food cylinders 2 and 1 were not included in launch orientation ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_29",
+    "section": "FullText",
+    "summary": "The MVP unit was powered on, and fruit fly food cylinder 2 was retrieved from 4\u00b0C storage and inserted into the module . The launch configuration allowed each module to have a food cylinder in the \u201cfood cylinder 3\u201d slot, to support the first generation of flies during launch . After this time (the beige section), the initial generation of fly laid eggs in food cylinder"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_30",
+    "section": "FullText",
+    "summary": "The first PC is explained by variance explained by sex differences and the second PC demonstrates the differences across gravity conditions . We see clear separation by sex and experimental condition . The enriched GO terms (biological processes) related to aging are plotted ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_31",
+    "section": "FullText",
+    "summary": "The study was published in the journal Proceedings of the Human Organism of Science . The study is published on October 1, 2015 ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_32",
+    "section": "FullText",
+    "summary": "Norgen: Norgene: \"Physicine\u2019s TMT 10-plex isobaric label kit\" \"Physico-Proteomics\" is published in \"Matlab 2018\""
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_33",
+    "section": "FullText",
+    "summary": "\"We would like to thank the ISS Research Integration Office at NASA JSC for funding to SB for the validation of the MVP platform ("
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_34",
+    "section": "FullText",
+    "summary": "Microglia-mediated.%20neurotoxicity:%20Uncovering the .molecular%20mechanisms.&amp;author=ML%20Block &amp; author=L%20Zecca . <li id=\"R8\">Bondar RL (2005)"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_35",
+    "section": "FullText",
+    "summary": "The speed of Drosophila locomotion was estimated using an automated behavior detection and analysis system . The study was published in Fly (Austin)."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_36",
+    "section": "FullText",
+    "summary": "The role of medial prefrontal cortex in memory and decision making was studied in rats with GCR-Induced Spatial Memory Impairment ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_37",
+    "section": "FullText",
+    "summary": "Oxidative phosphorylation, not glycolysis, powers presynaptic and postsynaptic mechanisms underlying brain information processing ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_38",
+    "section": "FullText",
+    "summary": "A\u03b240 and A\u03b242 in Drosophila: A potential model for Alzheimer\u2019s disease ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_39",
+    "section": "FullText",
+    "summary": "The iFly tracking system for an automated locomotor and behavioural analysis of drosophila melanogaster . a href=\"https://.google.com/scholar_lookup?journal=BMC%20Bioinformatics&amp;title=Intervene: Intervene ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_40",
+    "section": "FullText",
+    "summary": "Monitoring antioxidant defenses and free radical production in space-flight, aviation and railway engine operators, for the prevention and treatment of oxidative stress, immunological impairment, and pre-mature cell aging ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_41",
+    "section": "FullText",
+    "summary": "Proteomic Analysis of Mouse Brain Subjected to Spaceflight . Spaceflight induces oxidative damage to blood-brain barrier integrity ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_42",
+    "section": "FullText",
+    "summary": "Innate Immune Responses of Drosophila melanogaster Are Altered by Spaceflight. PLoS One.6, e15361 .  Targeted overexpression of mitochondrial catalase prevents radiation-induced cognitive dysfunction . Antioxidants Redox Signal. 22, 78\u201391 ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_43",
+    "section": "FullText",
+    "summary": "The Hippie's free article was published in the journal Exp Neurol Neurol. Neurol, Exp. Neuro. Neuro .  The effect of simulated microgravity on salivary and serum oxidants, antioxidants, and periodontal status was studied in J. Periodontol82, 1478\u20131482 ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_44",
+    "section": "FullText",
+    "summary": "Salim S (2017). Oxidative Stress and the Central Nervous System . J. Pharmacol. Exp. Therol. Ther360, 201\u2013205 . [<a href=\"https://doi.org/10.1124/jpet.116.237503\" class=\"usa-link usa-link--external\" data-ga-action"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_45",
+    "section": "FullText",
+    "summary": "The study was published in the journal Nature Nature . The study is published online at http://www.nfoq.org/s/synthetic-"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_46",
+    "section": "FullText",
+    "summary": "This section collects any data citations, data availability statements, or supplementary materials included in this article . The study was published in the New York Academy of Sciences ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_47",
+    "section": "FullText",
+    "summary": "The MVP <em>Drosophila experiment was launched with flies in chamber 2/cylinder 3 and food in cylinder 3 . Food cylinders 2 and 1 were not included in launch orientation . Each food cylinder had two openings that rotated back and forth to give flies access to one side of the cylinder at a time . This allowed us to control entry of flies into the food cylinder from"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_48",
+    "section": "FullText",
+    "summary": "Videos from mission days 13-28 were analyzed for inflight behavioral assessments . Images of fly brain stained with neuronal marker anti-ELAV and marked for neuronal cortex and neuropil area .  Venn diagram showing the overlap of differentially expressed genes (A) and proteins (B) of SF1g and SF\u03bcg males and females compared to the Earth males and female respectively . Figure S5 (related to) Figures 3, 4, 5, and 5, respectively ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_49",
+    "section": "FullText",
+    "summary": "Supplementary Table 1: Differentially expressed genes (DEGs) and GO enrichment . Table 2: GO enrichment terms (BP, CC, MF) for SF1g females vs Earth females . Table 3: (SF1gvsEarth_M): DEGs of SF\u03bcg males vs Earth males. (SF\u03bcg vsEarth_F) and (SFemig"
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_50",
+    "section": "FullText",
+    "summary": "The author of the book is published by the National Institute of Standards and Standards of Standards of Quality . The author is published on the MyNCBI website . The book was published on September 1, 2013 ."
+  },
+  {
+    "chunk_id": "PMC10503492_FullText_53",
+    "section": "FullText",
+    "summary": "Pajajajaja.getScript is a form of JavaScript . The code is called \"jQuery\", and it is then called \"JQuery\" and \"jquery-3.6.0.6\""
+  }
+]

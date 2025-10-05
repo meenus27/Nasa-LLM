@@ -1,0 +1,162 @@
+[
+  {
+    "chunk_id": "PMC10058394_FullText_0",
+    "section": "FullText",
+    "summary": "The website belongs to an official U.S. government organization in the United States . The government is using the domain name of the U.N.gov.gov ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_3",
+    "section": "FullText",
+    "summary": "Brachypodium distachyon seedlings exposed to the microgravity environment of ISS display accession- and organ-specific responses that involve oxidative stress response, wall remodeling, photosynthesis inhibition, expression regulation, ribosome biogenesis, and post-translational"
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_4",
+    "section": "FullText",
+    "summary": "Researchers have heavily relied on transcriptomic and proteomic profiling approaches to reveal key molecular pathways that are responsive to the spaceflight environment relative to ground controls ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_5",
+    "section": "FullText",
+    "summary": "Arabidopsis thaliana serves as an outstanding genetic model for investigations of dicot plant responses to the microgravity environment encountered during spaceflight . Most major agriculture crops grown on Earth for food, feed, and fiber are monocots, which diverged from the dicots 150 million years ago ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_6",
+    "section": "FullText",
+    "summary": "The growth and transcriptomic responses to spaceflight observed in this project may be the consequence of exposure to microgravity, radiation, or other spaceflight-associated parameters ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_7",
+    "section": "FullText",
+    "summary": "APEX Growth Unit hardware. The APEX growth unit contains a foam block wrapped with a layer of medical gauze . An outer layer of Nitex mesh prevents the roots of germinating seedlings from penetrating into the foam block ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_8",
+    "section": "FullText",
+    "summary": "A first group of 12 APEX Growth Units was flown to ISS, where astronaut Scott Tingle initiated the experiment by injecting nutrient medium into the foam of each unit and positioning the units into an onboard VEGGIE growth chamber . The plants were fertilized every other week with Blossom Booster Fertilizer (10-30-20) They were allowed to self-fertil"
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_9",
+    "section": "FullText",
+    "summary": "Twelve APEX Growth Units (4 per accession) were unpacked by astronaut Scott Tingle on 12 April 2018 . The seedlings were planted in a VEGGIE growth chamber within the ISS Environmental Simulator (ISSES) at Kennedy Space Center (KSC) The ground control experiment was identical to the one followed on the ISS ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_10",
+    "section": "FullText",
+    "summary": "Four biological replicates per accession were used to identify differentially expressed genes . P-values were adjusted for multiple testing using either the Benjamin\u2013Hochberg method (for DEseq) or the q-values set to false discovery rates (FDR) of 0.05 (for EdgeR) Thresholds for significant differences were set at <em>p</em>"
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_11",
+    "section": "FullText",
+    "summary": "High-resolution seedling photographs were taken on the ISS and in ground control experiments . Shoot and root lengths were measured separately using ImageJ ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_12",
+    "section": "FullText",
+    "summary": "Biometric analysis of root length and shoot length of 5-day-old <em>Brachypodium distachyon seedlings . Microgravity-exposed seedling roots were 16% to 18% shorter than ground controls for all three accessions tested ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_13",
+    "section": "FullText",
+    "summary": "Genes showing statistically significant differences between microgravity and ground control are reported here . Within each accession, very few DEGs were found to overlap between shoots and roots ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_14",
+    "section": "FullText",
+    "summary": "DEGs associated with the Oxidation-Reduction Process (GO: 0055114) were distinct between shoot and root tissues . In the root down-regulated category, most DEGs belong to the peroxidase and cytochrome P450 super families ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_15",
+    "section": "FullText",
+    "summary": "Process GO group is significantly enriched in the Brachypodium shoot and root transcriptomic responses to the microgravity environment on ISS . We compared our list of DEGs from Bd21 to the clusters identified in the ROS wheel ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_16",
+    "section": "FullText",
+    "summary": "Bd21 and Gaz8 shoot down-regulated DEGs are enriched with photosynthesis-related GO groups . Cluster I is enriched with genes enriched in photosynthesis related genes . This is consistent with previous reports from Arabidopsis and rice ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_17",
+    "section": "FullText",
+    "summary": "Figure 6: Orthologs to down-regulated and up-regulated DEG orthologs are shown in this figure . Green represents down-regulation under microgravity whereas pink refers to up-regulation ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_18",
+    "section": "FullText",
+    "summary": "23 DEGs are associated with the Regulation of Transcription, DNA-Templated (GO:0006355) Annotation of best-hit Arabidopsis and rice orthologs to these DEGs suggests that most of them encode transcription factors . Four of them are predicted to encode ethylene response-element binding proteins or ERFs ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_19",
+    "section": "FullText",
+    "summary": "The three accessions of <em>Brachypodium distachyon were tested showed both common and accession-specific transcriptional responses to microgravity . The majority of these genes encode proteins associated with ribosome biogenesis ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_20",
+    "section": "FullText",
+    "summary": "There is to date no evidence that a knock-down mutation of <em>PIN2 will cause a longer root-hair phenotype . We currently have no clear molecular explanation for the long root-haired phenotype displayed by Brachypodium seedlings exposed to the microgravity environment of ISS ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_21",
+    "section": "FullText",
+    "summary": "Our experiments were not set up to allow observation of cell numbers in the root apical meristem, or cell elongation in root elongation zone . We cannot determine whether the short-root phenotype displayed by Brachypodium seedlings exposed to microgravity derive from decreased cell proliferation in the . root ap . apical . meristems ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_22",
+    "section": "FullText",
+    "summary": "The few GO groups that were similarly over-represented between shoot and root DEGs included genes that showed opposite expression responses to the microgravity environment between organs . These results are compatible with those reported for Arabidopsis thaliana seedlings exposed to microgravity ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_23",
+    "section": "FullText",
+    "summary": "Table S1: List of Bd21 DEGs organized based on organ type (shoot and root) and Gaz8 DEGs . Table S7: List: List . of Arabidopsis genes whose Brachypodium orthologs are differentially expressed in Bd 21 roots under microgravity conditions . table S8: Table S9: Chi-squared analysis of shoot DE"
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_24",
+    "section": "FullText",
+    "summary": "The study was published in 1998 . It was published by the journal Planta . The study is published by Springer Springer Springer ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_25",
+    "section": "FullText",
+    "summary": "Researchers: Arabidopsis seedlings during spaceflight reveals peroxidase and cell wall remodeling genes associated with root hair development ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_26",
+    "section": "FullText",
+    "summary": "The study was published in \"B23-life-13-00626\" by Paul A.-L. \" target=\"_blank\" rel=\"noop"
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_27",
+    "section": "FullText",
+    "summary": "Plant Physiol.  as a model for the grasses: Today and the future.   as well as the future . Plant"
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_28",
+    "section": "FullText",
+    "summary": "The ROS Wheel: Refining ROS Transcriptional Footprints . The model was published in 2010 by The Nature Institute ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_29",
+    "section": "FullText",
+    "summary": "Plant Physiol. 2016;171:1720\u20131733 . [<a href=\"https://doi.org/10.1093/nar/gkq310\" class=\"usa-link usa-link--external\" data-ga-action=\"click_feat_suppl\" target=\"_blank\" rel=\"noopener noreferrer\">  Researchers: Hoffmanmann, Benske, Betz, Schuetz, Samuels, Samiels, Bauetz, Bue"
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_30",
+    "section": "FullText",
+    "summary": "The study was published in the journal Mol Mol Plant . It was published by the National Institute of Medicine in 2012 . The authors include: Yamaguchi-Shinozaki K., Shinozakis K., Tran L.S. and Tran ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_31",
+    "section": "FullText",
+    "summary": "The study was published in the journal Genome Biol.org . It was published by the National Institute of Medicine . The study is published on the website of PubMed ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_32",
+    "section": "FullText",
+    "summary": "Plant responses to real and simulated microgravity . Life Sci. Space Res. Res. 2021; 28:74\u201386 ."
+  },
+  {
+    "chunk_id": "PMC10058394_FullText_36",
+    "section": "FullText",
+    "summary": "Pajajajaja.getScript is a form of JavaScript . The code is called \"jQuery\", and it is then called \"JQuery\" and \"jquery-3.6.0.6\""
+  }
+]

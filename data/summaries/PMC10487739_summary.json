@@ -1,0 +1,112 @@
+[
+  {
+    "chunk_id": "PMC10487739_FullText_0",
+    "section": "FullText",
+    "summary": "Samir Ali, Jacob Holley, Stephen Justinen, Michael Pecaut, Seta Stanbouly and Michael Pekaut are the authors of the study at Loma Linda University School of Medicine . Ali, Justinen and Mecaut are members of the faculty of the L.A. omics program . The study was published in March 2013 ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_3",
+    "section": "FullText",
+    "summary": "The study was published at the Loma Linda University School of Medicine in California . The authors discuss spaceflight-Induced Gene Expression Profiles in the Mouse Brain . The author is Isaac Kremsky of the L.A. University of Medicine ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_4",
+    "section": "FullText",
+    "summary": "The article is published by the Loma Linda University School of Medicine in California . The author is Xiaowen Mao . The authors are divided in the Division of Biomedical Engineering Sciences (BMES)"
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_5",
+    "section": "FullText",
+    "summary": "The demands of deep space pose a health risk to the central nervous system that has long been a concern when sending humans to space . Little is known about how spaceflight affects transcription spatially in the brain ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_6",
+    "section": "FullText",
+    "summary": "The frontal cortex (FCT) plays a role in memory, attention, judgment, consciousness, and behavior . Pathophysiological changes in the FCT are associated with depression and anxiety . Ground-based analog studies have found that simulated microgravity influences cognitive function ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_7",
+    "section": "FullText",
+    "summary": "Q3 normalization was performed on the data for all downstream analyses . Normalized count values of gene expression were highly correlated across replicates of the four samples . Spaceflight had an effect on all four regions in SAL control animals . CA and DG were impacted the most ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_8",
+    "section": "FullText",
+    "summary": "Each brain region largely had a unique set of DEGs, though a small number were common to two or more regions . The top five DEGs by magnitude of fold change are as follows: <em>Ptgds, <em>.Cpne77, and <em >Cdkn2d; <em: Cdkn3d; >em>Ms  Many of these top-changing genes play important roles in apoptosis, cell cycle, neuroinflammation, neurotransmission, myelination, and mitochondrial and metabolic stress response . Alzheimer\u2019s disease was the most frequent disease associated with the DEGs ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_9",
+    "section": "FullText",
+    "summary": "We also performed a permutation test (see <a href=\"#sec4-ijms-24-13569\" class=\"usa-link\">Section 4) in which genes were shuffled in order to randomly select up- and down-regulated BuOE-induced DEGs . For all brain regions, the number of random overlaps after 1000 permutations was never as large as"
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_10",
+    "section": "FullText",
+    "summary": "Space radiation may damage hippocampal cells, which are important for encoding new memories, spatial learning, and cognitive flexibility . The hippocampus is a site for neurogenesis as well . Space radiation has known associations with Alzheimer\u2019s disease, as well as other neurological diseases ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_11",
+    "section": "FullText",
+    "summary": "Studies have shown spaceflight-induced increase in the production of lipid peroxidation products and decrease in antioxidant enzyme activity . The findings may provide novel insight into cellular mechanisms and operational risks that underlie the effects of spaceflight ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_12",
+    "section": "FullText",
+    "summary": "Ten-week-old C57BL/6 male mice were launched at the Kennedy Space Center (KSC) and spent 35 days aboard the International Space Station . Mice were exsanguinated by closed-cardiac blood collection under deep Ketamine/Xylazine (150/45 mg/kg) anesthesia, followed by cervical dislocation as a secondary euthanasia method ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_13",
+    "section": "FullText",
+    "summary": "Sequencing was performed on an Illumina NovaSeq 6000 (Illumina Inc., San Diego, CA, USA)."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_14",
+    "section": "FullText",
+    "summary": "Fisher\u2019s exact test was calculated on each 2 \u00d7 2 contingency matrix in order to obtain a <em>p</em>-value for the null hypothesis . For each brain region, a random set of BuOE-induced DEGs was selected ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_15",
+    "section": "FullText",
+    "summary": "The authors declare no conflict of interest . The author and contributors disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_16",
+    "section": "FullText",
+    "summary": "The study was published in the journal One Journal . It is published on the journal's website . The authors include: Zhang, Zeng, Ouyang, Li, Guo, Zang and Ferguson . The study is published online at http://www.jpn.org/susi/jpn/2015/0135835 ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_17",
+    "section": "FullText",
+    "summary": "Anand K.S.S., Dhikav V. .M. Miller: Hippocampus in health and disease: An overview . Miller: \"Hippocampus is an important part of the human body\""
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_18",
+    "section": "FullText",
+    "summary": "Study: Spaceflight-Induced Adverse Effects on Photoreceptors and Retinal Function in the Mouse Eye ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_19",
+    "section": "FullText",
+    "summary": "A.J.J., Harris A.Z., Martyniuk K.M., Chang C.Y., Abbas A.I., Lowes D.C., Kellendonk C., Kellendk C.A., Gogos J.A.A.-Gordon J.L.A.: \"Reset of hippocampal-prefrontal circuitry facilitates learning\""
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_20",
+    "section": "FullText",
+    "summary": "Longitudinal metabolomic profiles reveal sex-specific adjustments to long-duration spaceflight and return to Earth . Findings were published in the journal of the journal Astronomy ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_21",
+    "section": "FullText",
+    "summary": "Authors: Nonclinical Safety and Toxicokinetics of MnTnBuOE-2-PyP5+ (BMX-001) Int. J. Toxicol. 2016; 35:438\u2013453."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_22",
+    "section": "FullText",
+    "summary": "The positive discovery rate: Bayesian interpretation and the interpretation of the Bayesian Bay-value . The positive-value of Bay Bay Bay-Value is the highest in the Bay Bay area ."
+  },
+  {
+    "chunk_id": "PMC10487739_FullText_25",
+    "section": "FullText",
+    "summary": "Pajajajaja.getScript is a form of JavaScript . The code is called \"jQuery\", and it is then called \"JQuery\" and \"jquery-3.6.0.6\""
+  }
+]

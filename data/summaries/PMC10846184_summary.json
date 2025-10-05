@@ -1,0 +1,152 @@
+[
+  {
+    "chunk_id": "PMC10846184_FullText_0",
+    "section": "FullText",
+    "summary": "There is still a lack of targeted approaches for modulating these interactions . 23.5% of microbiota interactions between host and host microbiota have"
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_4",
+    "section": "FullText",
+    "summary": "This article is based on a previously available preprint posted on bioRxiv on February 18, 2023: \"Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics\" The article is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International license ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_5",
+    "section": "FullText",
+    "summary": "The composition of the microbiome might be an important modulator of host health and fitness . A targeted modulation of microbiome composition might offer a completely new avenue for modulating the host ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_6",
+    "section": "FullText",
+    "summary": "Fecal transfer is the most commonly used approach to modulate microbial community composition in animal models . Prebiotics are proposed as prebiotics to alter the microbial community on both the structural and functional level in humans . There is only little knowledge about other classes of compounds that might alter microbial composition . To overcome limitations in current microbiome manipulation approaches, we need to focus on prebiotic"
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_7",
+    "section": "FullText",
+    "summary": "FBA (FBA) can be used to predict metabolic activities within individual species as well as interactions between species . These methods have already been used to identify metabolic alterations in the microbiome of Parkinson\u2019s disease patients ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_8",
+    "section": "FullText",
+    "summary": "The authors used gut microbiome data from a Kiel-based human cohort to study the effects of drug-microbiome-host interactions . They used metabolic networks of MYb11 and MYb71 to model the community of CeMbio . L-serine, L-threonine, D-mannitol, and \u03b3-aminobutyric acid ("
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_9",
+    "section": "FullText",
+    "summary": "We modified the published approach so that we did not fix species composition but let it be determined as part of the optimization of individual species biomasses . We focused on the identification of nutritional supplements that boosted the growth of the target species MYb11 ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_10",
+    "section": "FullText",
+    "summary": "For simulations using community FBA, the metabolic models of both organisms were merged into one microbial community, compartmentalized, model . Supplementations for each metabolite were conducted by increasing the possible influx of the supplement by 10 mmol/L . For testing the effects of supplements on single growth, the relative increase in growth rate was recorded ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_11",
+    "section": "FullText",
+    "summary": "Fluorescently labeled strains MYb11::dTomato and MYb71::GFP were used to distinguish the bacterial species in a mixed community . Liquid cultures (5 mL LB) of donor, helper (both 37\u00b0C) and target strains were grown with agitation overnight, subcultured, and collected at an OD 0.4\u20130.6 ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_12",
+    "section": "FullText",
+    "summary": "The nematode is capable of a differential uptake of distinct bacterial strains from a mixed bacterial lawn . The study was a proof-of-concept study ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_13",
+    "section": "FullText",
+    "summary": "A microbial community is to supply the community with a compound that is only taken up by the target species but no other species . A microbial"
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_14",
+    "section": "FullText",
+    "summary": "We evaluated for each bacterial species of a particular community whether it was able to take up a metabolite that no other species of the community could take up . For the human cohort, the bacterial communities comprised on average 26\u201334 bacterial species (25\u201375% quantiles) Within this community size, on average, 5\u201320% of bacterial species were inferred to possess unique uptake compounds  MYb11 and MYb71 share the vast majority of all uptake compounds (85%) while only 10% and 5% of all"
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_15",
+    "section": "FullText",
+    "summary": "metabolic networks and fluxes are predicted by maximizing the biomass fluxes of individual bacteria . In community FBA, in turn, the optimization of total growth assumes that bacterial species coordinate their metabolic fluxes so that overall growth is maximized ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_16",
+    "section": "FullText",
+    "summary": "L-threonine, an essential amino acid, can support the lifespan of the host . Its catabolite methylglyoxal (in low amounts) can also have a positive effect on host\u2019s lifespan ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_17",
+    "section": "FullText",
+    "summary": "MYb11 and MYb71 showed increased growth in mono- and co-cultures when supplemented with L-serine, L-threonine, GABA, as well as D-mannitol after 24 h . GABA, apart from being a bacterial product, is protective for the host\u2019s neurons, therefore its usage as a nutritional compound would make it a safe option  MYb11 and Ochrobactrum vermis in mono- and co-culture with four different supplements for 24 h ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_18",
+    "section": "FullText",
+    "summary": "Serine supplementation alters bacterial colonization of C. elegans . L-serine supplementation to solid growth medium would alter bacterial proportions in host ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_19",
+    "section": "FullText",
+    "summary": "L1 larvae were pipetted onto bacterial lawns of MYb11 and MYb71 on solid NGM plates . L-serine supplementation at 100 M increased the proportion of Myb11 in the bacterial community in worms compared to non-supplemented media . This suggests that the provision of serine enriches MYb 11 in the host independently from the enrichment observed  Bacteria abundance from experimental treatments was normalized by subtracting the median of the corresponding non-supplemented controls (0 mM) Bacteria from experimental treatment were normalized by adding the median to the median ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_20",
+    "section": "FullText",
+    "summary": "We propose that the most effective way to modulate the composition of the microbiome is by modulating or enriching the abundance of an already existing bacterial species with health-beneficial effects using precision prebiotics . We used genome-scale metabolic networks of two bacterial members from the <em>C. elegans <em>. microbiome, <em > MYb71, and the host"
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_21",
+    "section": "FullText",
+    "summary": "One challenge to target the microbiome with nutritional supplements is to prevent host uptake or metabolization of the supplements . Different approaches to achieve restricted bioavailability have been developed . Advanced formulations such as nanotechnology could be employed ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_22",
+    "section": "FullText",
+    "summary": "The human cohort data used in this study originates from the publication of Pryor et al. The growth rate changes of the supplementation experiments with FBA sybil and MicrobiomeGS2 can be found in Supplementary Tables S3 and S4 . The bacterial biomass data of the BacArena simulations can be . found in . Supplementary Table S5 and S3 ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_23",
+    "section": "FullText",
+    "summary": "The authors have granted ASM a non-exclusive, world-wide license to publish the Supplemental Material files . ASM does not own the copyrights to Supplemental Material that may be linked to, or accessed through, an article .  The study was published in the journal \"Trends\" and \"Plant\" Sci Sci Sci . It was published by the National Institute of Health and Standards ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_24",
+    "section": "FullText",
+    "summary": "The gut microbiome: relationships with disease and opportunities for therapy . Microbiota in health and diseases. The gut microbiota. relationships . relationships with diseases and opportunities . for therapy.  A comparative review on microbiota manipulation: lessons from fish, plants, livestock, and human research . The impact of diet on microbiota evolution and human health . Is diet an adequate tool for microbiota .  Mechanisms of action of prebiotics and their effects on gastro-intestinal disorders in adults in adults . The study was published in the journal of Nutrients 12:1037."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_25",
+    "section": "FullText",
+    "summary": "The microbiota protects against infections via production of a cycliclipopeptide of the viscosin group . The group is a group of bacteria that produces the cyclic protein, which can be found in a range of bacteria ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_26",
+    "section": "FullText",
+    "summary": "Natural genetic variation drives microbiome selection in the Caenorhabditis elegans gut . The functional repertoire contained within the native microbiota of the model nematode CaenOrhabditas elegans .  Magn\u00fasd\u00f3ttir S, Heinken A, Kutt L, Ravcheev DA, Bauer E, Noronha A, Greenhalgh K, J\u00e4ger C, Baginska J, Wilmes P, Fleming RMT, Thiele I."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_27",
+    "section": "FullText",
+    "summary": "Gut-associated functions are favored during microbiome assembly across C. elegans life, researchers say . Gut-related functions are also favored during the assembly of the microbiome ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_28",
+    "section": "FullText",
+    "summary": "Microbial butyrate synthesis indicates therapeutic efficacy of azathioprine in IBD patients . The study was published in the journal J Crohns Colitis.  J Neurosci40:7531\u20137544. [<a href=\"https://doi.org/10.1523/JNEUROSCI.2358-19.2020\" class=\"usa-link usa-link--external\" data-ga-action=\"click_feat_suppl\" target=\"_blank\" rel=\"noopener nore"
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_29",
+    "section": "FullText",
+    "summary": "Dietary serine-microbiota interaction enhances chemotherapeutic toxicity without altering drug conversion . The study was published in Nat Commun.com/Nat.Communie11:2587 ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_30",
+    "section": "FullText",
+    "summary": "The study was published in the journal Nature Nature . It is published by the journal journal Nature Biomaritalia ."
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_31",
+    "section": "FullText",
+    "summary": "The evolution of commercial drug delivery technologies . Nanoparticles: oral delivery for protein and peptide drugs . The evolution . of commercial . drug delivery . technologies .  p>Tables S1-S20. p>Table S1 -S20 . p> Table 1: 1: 10.1128/spectrum.01144-23.SuF2 . Table 2: 2: 10: 1, 1: 5: 1; 2: 1.5: 1-2: 1 . Table 3: 1 : 1:"
+  },
+  {
+    "chunk_id": "PMC10846184_FullText_34",
+    "section": "FullText",
+    "summary": "Pajajajaja.getScript is a form of JavaScript . The code is called \"jQuery\", and it is then called \"JQuery\" and \"jquery-3.6.0.6\""
+  }
+]

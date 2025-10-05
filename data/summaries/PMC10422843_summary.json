@@ -1,0 +1,207 @@
+[
+  {
+    "chunk_id": "PMC10422843_FullText_0",
+    "section": "FullText",
+    "summary": "Several fungal strains were isolated at the California Institute of Technology in Pasadena, CA . The study was published on August 11, 2013 ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_4",
+    "section": "FullText",
+    "summary": "The online version contains supplementary material available at 10.1186/s43008-023-00119-4 ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_5",
+    "section": "FullText",
+    "summary": "It has been shown that yeast and yeast-like fungi are capable of adapting to and colonizing various ecological niches due to their genetic and phenotypic plasticity and robustness . In this study, we describe for the first time two novel yeast species from NASA cleanrooms ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_6",
+    "section": "FullText",
+    "summary": "A block of agar was placed in the center of a sterile slide and inoculated with the yeast suspension . The slide culture was kept in a moist Petri dish lined with filter paper soaked in sterile water ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_7",
+    "section": "FullText",
+    "summary": "DNA was extracted from yeast cultures on PDA using tissue LEV purification kit . DNA was amplified using polymerase chain reaction (PCR) using primers ITS 1F (5\u2032-CTT GGT CAT TTA GAG GAA GTA GTA A-3\u2032) and Tw13 (5\u00bd-GGT CCG TGT TTC AAG ACG-3"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_8",
+    "section": "FullText",
+    "summary": "Genes of length\u2009&lt;\u200950aa and genes identified as transposable elements were filtered out of the dataset . tRNAscan-SE was used to predict tRNAs (Chan and Lowe) and funannotate annotate function was used . Biosynthetic gene clusters were predicted in the two yeast genomes via fungiSMASH ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_9",
+    "section": "FullText",
+    "summary": "Construction of phylogenetic trees utilizing the seven gene sequences listed above for MLSA was performed via IQ-TREE v 2.1.1 using the concatenation approach ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_10",
+    "section": "FullText",
+    "summary": "The evaluation of UV-C resistance was carried out via methods described previously (Blachowicz et al.  tree for each species was visualized with FigTree v 1.4.4 software ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_11",
+    "section": "FullText",
+    "summary": "PDA colonies on PDA are cream colored, round, and 30mm in diameter . Colonies are not observed to cluster or form pseudohyphae. Cells are round, vary widely in size, and reproduce through budding ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_12",
+    "section": "FullText",
+    "summary": "After 21 days of incubation at room temperature, colonies on PDA are bright orange, round, and 20mm in diameter . Individual yeast cells are ovoid in shape and observed to reproduce through budding ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_13",
+    "section": "FullText",
+    "summary": "LSU and ITS exhibited higher resolution in differentiating the Naganishia species . The novel species <em>N. kalamii</em> is most closely related to <em>.albida . The tree based on conserved genes from the .em>Kalamii> FJI-L2-BK-P3<sup>T<sup>.T"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_14",
+    "section": "FullText",
+    "summary": "GO annotated and 6007 Eggnog terms, 2548 Interpro and 4783 Pfam domains, 177 CAZYmes, 219 MEROPS peptidases, 396 secreted proteins, and 1624 BUSCO orthologs . N. kalamii has the highest number of genes (8085) and 7902 proteins products . Lowest numbers of CAZymes"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_15",
+    "section": "FullText",
+    "summary": "The only strain exhibiting all the terms involved in UV resistance was Antarctic <em>N. vishniacii ANT03-052 strain ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_16",
+    "section": "FullText",
+    "summary": "All the seven loci investigated exhibited good resolution in delimiting the analysed <em>Cystobasidium species . Based on the MLSA tree, strain FKI-L6-BK-PAB1 constitutes a well-supported clade with each of the species representing well-separated lineage . The WGS-based analysis further supported a distinct phylogenetic position of"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_17",
+    "section": "FullText",
+    "summary": "Genome-wide comparison revealed that <em>C. onofrii <em >C. slooffiae</em> secreted larger number of proteins . FKI-L6-BK-PAB1 <sup>T <sup>.T <em>. FKI was second to <em . sloofiae <em. sloofiae <"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_18",
+    "section": "FullText",
+    "summary": "Heat shock protein 70 and other Pfam terms for predicted proteins involved in the dehydration stress-response are also commonly present in all the <em>Cystobasidium\u00a0 species analyzed . UV radiation resistance protein (IPR018791) and short-coiled protein are present in the genome of the Antarctic <em >C. ongulense and in <em <"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_19",
+    "section": "FullText",
+    "summary": "Among the three yeasts tested, only <em>N. onofrii exhibited higher resistance (~\u20095.5\u2009\u00d7\u2009\u2009#10<sup>3) resistance . 72% of conidia were cultivable after exposure to the highest dosage [3000\u00a0J/m <sup>2</sup>]."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_20",
+    "section": "FullText",
+    "summary": "The case of the genus <em>Naganishia is challenging as species were delimited based on very few substitutions in the two fragments, ITS and LSU . Based on the <em>.albida</em> clade of the . genus, the . clade is currently include three varieties of <em >N. albida </em> and three other"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_21",
+    "section": "FullText",
+    "summary": "All the psychrophilic or psychrotolerant species exhibit the presence of cold-adapted genes which might have allowed them to colonize cold environments such as Antarctica and the deep sea ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_22",
+    "section": "FullText",
+    "summary": "Halophilic traits detected in the genomes of these species also likely contributes to their survival in the cleanroom environment . Yeasts are typically active in hyper-arid regions ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_23",
+    "section": "FullText",
+    "summary": "Deinococcal polysaccharide capsule (DeinoPol) has antioxidant properties involved in resistance to severe environmental stresses, including UV radiation and hydroxyl radicals . This adaptation is typically found in extremophiles ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_24",
+    "section": "FullText",
+    "summary": "The synthesis of extracellular enzymes which degrade organic matter and release nutrients is crucial for the survival of saprotrophs . We observed a loss in gene family (PFAM terms and GO-term counts) in both species, which is usually associated with a host/substrate shift from plants to animals"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_25",
+    "section": "FullText",
+    "summary": "The function distna in the ape: Analyses of Phylogenetics and Evolution package (R software) with the Kimura 2-parameter substitution model was used for the generation of the matrix . The tree was rooted with <em>G. gastricus</em> type strains . Bootstrap percentages from 1000 replications are shown on the branches . GenBank accession"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_26",
+    "section": "FullText",
+    "summary": "SSU phylogenetic tree of <em>C. onofrii . The tree was rooted with <em>.R. on ofrii"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_27",
+    "section": "FullText",
+    "summary": "GenBank accession numbers of the sequences are listed in Additional file <a href#MOESM1\" class=\"usa-link\">1 . Bootstrap percentages from 1000 replications are shown on the branches (values below 50.00 are not shown). Bootstrap percentage from 1000 . replications . are shown in Table S2 ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_28",
+    "section": "FullText",
+    "summary": "The research described in this manuscript was performed at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration (80NM0018D0004)  KV and NKS conceived and designed the experiments . The experiments were carried out by the U.S. Department of Agriculture and the National Institute of Genetics ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_29",
+    "section": "FullText",
+    "summary": "The authors performed equally and authors are placed in alphabetical order . Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_30",
+    "section": "FullText",
+    "summary": "Boekhout T, Aime MC, Begerow D, et al. </li: \"Aime\" and \""
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_31",
+    "section": "FullText",
+    "summary": "Fungi are key players in extreme ecosystems in Trends Ecol Evol. 2022 . Fungal secretomes database: \"Fungal%20secretome\" is an integrated platform for genome sequencing ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_32",
+    "section": "FullText",
+    "summary": "Planetary protection for human exploration of Mars. Acta Astronaut. 2010;66:792\u2013797.02 .  Frith MC. 1099/ijsem.0.002920&amp;\" class=\"usa-link usa-link--external\" data-ga-action=\"click"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_33",
+    "section": "FullText",
+    "summary": "Researchers found raffinose and stachyose in shoot apices of Lonicera caerulea caerulesa L. during cold acclimation . The study was published in the journal of the journal Nature's Open Encyclopaedia ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_34",
+    "section": "FullText",
+    "summary": "Study: Accumulation of rare and undersampled dimorphic basidiomycetes . ModelFinder: fast model selection for accurate phylogenetic estimates .  Proposal of two new orders, three new families, and seven new species proposed . Proposal was published in the journal \"Simyco.2020\""
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_35",
+    "section": "FullText",
+    "summary": "FEMS Yeast Res. 2020;20:foaa042. [<a href=\"https://doi.org/10.1093/femsyr/foaa42\" class=\"usa-link usa-link--external\" data-ga-action=\"click_feat_suppl\" target=\"_blank\" rel=\"noopener n  The study was published in the journal Mol Biol Evol. 2020; 37:1530\u20131534 . The authors also discussed the protein families database in 2021 ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_36",
+    "section": "FullText",
+    "summary": "Extremophiles. 2016;20:915\u2013928. [http://doi.org/10.1007/s00792-016-0883-1\" class=\"usa-link usa-link--external\" data-ga-action=\"click_feat_suppl\" target=\"_blank\" rel=\"noopener noreferrer\"  Genomic and genomic analyses reveal boundaries between species closely related to Cryptococcus Pathogens . The study was published in the journal journal MBio. Mbio. 2019 ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_37",
+    "section": "FullText",
+    "summary": "The author of the book is published by Google Scholar . The book is available on Amazon.com and Google Play.com ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_38",
+    "section": "FullText",
+    "summary": "The study was published in New Biotechnology journal New Biotech . It contains a variety of types of bacteria . The authors include FA Venegas, S. Koutaniemi, SMJ Langeveld and SMJ V. Langeveld ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_39",
+    "section": "FullText",
+    "summary": "Evidence for eukaryotic life preserved in Antarctic permafrost . List of numbers of genes used for the strain used for this study . Table 1 . Table 2 . Table 3 . Table 4 . Table 5 . Table 10 ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_40",
+    "section": "FullText",
+    "summary": "The tree was rooted with <em>G. gastricus type strains . Bootstrap percentages from 1000 replications are shown on the branches (values below 50.00 are not shown). GenBank accession numbers of the sequences are listed in Additional file <a href#MOESM1\" class=\"usa-link\">1 ."
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_41",
+    "section": "FullText",
+    "summary": "RPB1 phylogenetic tree of <em>C. onofrii</em>. The tree was rooted with <em>.R. mucilaginosa and <em . muc"
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_42",
+    "section": "FullText",
+    "summary": "Use this article to help people understand the importance of the MyNCBI article . Use the \"Cite\" button to help readers understand the article . Aria-label=\"Save article in My NCBI collections.\""
+  },
+  {
+    "chunk_id": "PMC10422843_FullText_45",
+    "section": "FullText",
+    "summary": "Pajajajaja.getScript is a form of JavaScript . The code is called \"jQuery\", and it is then called \"JQuery\" and \"jquery-3.6.0.6\""
+  }
+]

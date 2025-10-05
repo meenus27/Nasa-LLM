@@ -1,0 +1,137 @@
+[
+  {
+    "chunk_id": "PMC10027818_FullText_0",
+    "section": "FullText",
+    "summary": "Spaceflight presents a multifaceted environment for plants, combining the effects on growth of many stressors and factors including altered gravity, the influence of experiment hardware, and increased radiation exposure ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_4",
+    "section": "FullText",
+    "summary": "One way to probe the responses of organisms to spaceflight is by analysis of changes in their transcriptomes, proteomes, metabolomes and genomes ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_5",
+    "section": "FullText",
+    "summary": "The Matrix allows researchers to explore the wealth of plant biology transcriptomic data generated during plant spaceflight-related studies . The Matrix was developed by the National Aeronautics and Space Administration's (NASA\u2019s) GeneLab ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_6",
+    "section": "FullText",
+    "summary": "Using our common analysis pipeline approach to comparing DEGs across all the Arabidopsis studies, batch effects became readily evident . These data are then visualized as tables and dendrograms of the enriched functional groups that are altered by spaceflight ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_7",
+    "section": "FullText",
+    "summary": "Pairwise factor correlation analysis was performed by inspection of the Matrix in Supplementary Data . This approach linked the studies using similarity scores reflecting commonalities in the different experimental designs and metadata factors ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_8",
+    "section": "FullText",
+    "summary": "The specific assay and tissue types for each dataset are indicated with network clustering based on hardware . Purple color circles represent RNAseq analysis of wild-type Col-0 plants, shades of blue represent other WT ecotypes, the pink circle represents RNA-seq analysis performed on mutants . Hardware: BRIC Biological Research in Canister, EMCS European Modular Cultivation System, VEG"
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_9",
+    "section": "FullText",
+    "summary": "GLDS-120 took place with a unique hardware setup (square Petri plates that were attached to the inside wall of the International Space Station . The connections to other studies suggest that comparisons within the local networks where each study acts as a hub are likely to be fruitful targets to extract common spaceflight-related responses ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_10",
+    "section": "FullText",
+    "summary": "Pairwise similarity matrix comparisons show spaceflight studies are most similar to other space flight studies . Radiation treatment was the most highly correlated factor (Supplementary Data <a href=\"#MOESM4\" class=\"usa-link\" aria-describedby=\"CR17\">17)"
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_11",
+    "section": "FullText",
+    "summary": "This observation suggests that spaceflight and spaceflight-related treatments are likely impacting these fundamental aspects of plant function . However, as a note of caution, this analysis combines the responses across all the diverse plant datasets within the Matrix . Even though the analysis in Fig.5d is filtered to exclude the broadest"
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_12",
+    "section": "FullText",
+    "summary": "The five BRIC experiments were separated into microarray (three studies) and RNA-seq (two studies) groups and analyzed using the GeneLab pipelines outlined above . Data is taken from the original spaceflight research publications ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_13",
+    "section": "FullText",
+    "summary": "The effect has been difficult to reliably detect in the transcriptional fingerprints of spaceflight responses, but the targeted analyses driven by insights from the Matrix appear able to reveal evidence for these previously cryptic patterns of molecular changes ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_14",
+    "section": "FullText",
+    "summary": "Gene Ontology enrichment analysis of these spaceflight-responsive DEGs across both studies and in both the in-house and GeneLab analytical pipelines (Fig. 6d) revealed enrichment in responses such as to oxidative stress, heat shock and changes in cell wall dynamics ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_15",
+    "section": "FullText",
+    "summary": "Figure shows the number of protein:protein interactions that each node/locus is annotated as being involved with as identified by the MCode analysis ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_16",
+    "section": "FullText",
+    "summary": "The power of the current meta-analysis lies in highlighting these genes as possible core markers of the spaceflight response across multiple experiments within the BRIC hardware . The differences in gene expression between BRIC-17 and the other BRIC investigations is that 3% (w/v) sucrose was used in the seedling media in GLDS-17 ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_17",
+    "section": "FullText",
+    "summary": "Heat Shock Proteins (HSPs) are molecular chaperones associated with protecting and refolding proteins in response to cellular damage . They are known to be induced by abiotic stressors such as oxidative stress . Previous work has shown correspondence between patterns of gene expression altered by oxidative damage from the high light stress response on Earth (which is strongly linked to damaging levels of plast"
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_18",
+    "section": "FullText",
+    "summary": "A large number of plastid genes responding to spaceflight identified in seedling samples from BRIC-16// reinforces the idea that this organelle may be an important site of spaceflight-induced responses . Spaceflight imposes some commonly encountered and some unique challenges when comparing datasets ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_19",
+    "section": "FullText",
+    "summary": "The findings suggest that spaceflight-related Arabidopsis experiments reveal alterations in general responses to environmental stresses, photosynthesis, and other elements of primary and secondary metabolism ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_20",
+    "section": "FullText",
+    "summary": "Matrix analysis presented herein provides a toolset to help expedite the development of such new investigations . Matrix analysis highlights three specific focus areas for future research that may prove particularly fruitful . These include: (1) studies examining the effect of variable light regimes on space grown plant productivity and physiology ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_21",
+    "section": "FullText",
+    "summary": "The authors' in-house analyses were published on the data with the initial publication of the data, when available . The study was published on December 31, 2012 ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_22",
+    "section": "FullText",
+    "summary": "Study: (116.5KB, xlsx) (114.5 KB) (44.5K xlsX) (10.7KB xls xls) (51.7 KB xls Xlsx), (10K xLSx) and (2.1MB xlsxs) (2MB xLSX) The study was supported by"
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_23",
+    "section": "FullText",
+    "summary": "Morita MT. noopener noreferrer\">Google Scholar < < <\u00a0Google Scholar> < <-li id=\""
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_24",
+    "section": "FullText",
+    "summary": "Directional gravity sensing in gravitropism . Bridging the gap between amyloplasts and directional auxin transport .  RNAseq analysis of rodent spaceflight experiments is confounded by sample collection techniques . RNA sequencing analysis of rodents spaceflight experiment is confounding by samples collection techniques, study finds ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_25",
+    "section": "FullText",
+    "summary": "Comparative transcriptomics indicate changes in cell wall organization and stress response in seedlings during spaceflight . Am. J. Bot. 2017; 104:1219\u20131231."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_26",
+    "section": "FullText",
+    "summary": "Li T, et al. A scored human protein-protein interaction network to catalyze genomic interpretation . The study was published in the journal Nat. Methods ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_27",
+    "section": "FullText",
+    "summary": "Plant Physiol. 2005;137:1130\u20131138. [<a href=\"https://doi.org/10.1104/pp.104.057299\" class=\"usa-link usa-link--external\" data-ga-action=\"click_feat_suppl\" target=\"_blank\" rel=\"noopener noreferrer\">  Study: Natural variation of cold deacclimation correlates with variation of the plastid antioxidant system in Arabidopsis thaliana accessions ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_28",
+    "section": "FullText",
+    "summary": "Ensembl%20Genomes%202020%E2%80%94enabling%20non-vertebrate%20genomic%20research ."
+  },
+  {
+    "chunk_id": "PMC10027818_FullText_32",
+    "section": "FullText",
+    "summary": "Pajajajaja.getScript is a form of JavaScript . The code is called \"jQuery\", and it is then called \"JQuery\" and \"jquery-3.6.0.6\""
+  }
+]
