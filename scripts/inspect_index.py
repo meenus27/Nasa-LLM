@@ -1,7 +1,7 @@
 import pickle
 
 # --- Path to your index file ---
-INDEX_PATH = "data/index.pkl"
+INDEX_PATH = "D:\nasa-biospace-llm\data\embeddings\index.pkl"
 
 # --- Load and inspect ---
 try:
@@ -15,3 +15,4 @@ try:
 
 except Exception as e:
     print(f"❌ Failed to load index file: {e}")
+
