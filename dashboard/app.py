@@ -56,8 +56,6 @@ st.sidebar.markdown("### 📊 Stats")
 st.sidebar.metric("Papers Indexed", len(id_map))
 st.sidebar.metric("Last Updated", "Oct 4, 2025")
 
-
-
 # --- Main UI ---
 if section == "Semantic Search":
     st.title("🔬 NASA Bioscience Explorer")
@@ -90,10 +88,7 @@ elif section == "About":
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("Made  by  Vyomx| Powered by LLMs + NASA Bioscience")
-
-
-
+st.markdown("Made with ❤️ by Vyomx | Powered by LLMs + NASA Bioscience")
 
 
 
